@@ -3,10 +3,19 @@ body{
     background-color: aqua;
 }
 #p2{
+    font-weight: bold;
+   font-family :"Playwrite AU QLD";
+font-size: 1.5em;
 color: black;
-text-transform: capitalize;
+
+/*text-transform: capitalize; -->*/
+
 }
 .a{
+    font-style: italic;
+    font-weight: 600;
+   font-family:"Playwrite PL"; 
+   font-size: 1.5em;
 background-color: rgb(132, 132, 201);
 }
 .b{
