@@ -21,3 +21,35 @@ background-color: rgb(132, 132, 201);
 .b{
     background-color: rgb(43, 226, 156);
 }
+h3{
+    border: solid;
+    border-width:5px;
+    border-radius: 30px;
+    margin:auto ;
+    text-shadow: ;
+}
+h2{
+    border: solid 5px rgb(163, 12, 88) ;
+    border-radius: 30px;
+    border-right: 50px;
+    margin-top: 50px;
+   
+}
+p{
+    font-size: 50px;
+    border-bottom: solid 5px palevioletred;
+      border-left: dotted 6px red;
+      margin:50px ;
+
+}
+#SD{
+    text-shadow: 3px 5px 3px  blue,6px 8px 5px rgb(255, 0, 51);
+
+}
+#box{
+    height: 200px;
+    width: 200px;
+   background-color:  rgb(43, 156, 226);
+   box-shadow: 9px 8px 5px black;
+   
+}
